@@ -1,0 +1,160 @@
+
+
+body {
+    background-image: url("back2.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    left: 300px;
+    position: static;
+}
+label {
+    color: rgba(0, 125, 215, 0);
+}
+
+.b_list{
+    margin-top: 60px;
+    position: relative;
+    left: 400px;
+    top: -10px;
+    border: 0;
+    background: 0;
+    color: aliceblue;
+    font-size: large;
+    font-style: normal;
+}
+.b_char{
+    position: relative;
+    left: 865px;
+    top: -10px;
+    border: 0;
+    background: 0;
+    color: aliceblue;
+    font-size: large;
+}
+.textp{
+    border-radius: 15px;
+    background-color: rgba(240, 248, 255, 0.178);
+    color: aliceblue;
+    font-size: larger;
+    position: relative;
+    top: 85px;
+    left: -135px
+}
+.arrow{
+    
+    position: relative;
+    font-size: large;
+    top: 85px;
+    background-color: rgba(240, 248, 255, 0);
+    border: 0;
+    left: -170px
+}
+
+li{
+    position: relative;
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 25px
+}
+.list{
+    position: relative;
+    left: 100px;
+    top: 0px
+}
+.char{
+    position: relative;
+    transform: scale(1.3);
+    top: 400px;
+}
+.char:hover {
+    transform: scale(1.7); 
+   }
+.isa{
+    position: relative;
+    left: 205px;
+    top: 110px
+}
+.ma{
+    position: relative;
+    left: 205px;
+    top: 110px
+}
+.ka{
+    position: relative;
+    left: 205px;
+    top: 110px
+}
+.iu{
+    position: relative;
+    left: 205px;
+    top: 110px
+}
+.bl{
+    position: relative;
+    left: -125px;
+    top: 210px
+}
+.vav{
+    position: relative;
+    left: -125px;
+    top: 210px
+}
+.sam{
+    position: relative;
+    left: -125px;
+    top: 210px
+}
+.las{
+    position: relative;
+    left: -456px;
+    top: 320px
+}
+.aza{
+    position: relative;
+    left: -456px;
+    top: 320px
+}
+.ed{
+    position: relative;
+    left: -456px;
+    top: 320px
+}
+.los{
+    position: relative;
+    left: -456px;
+    top: 320px
+}
+.lil{
+    position: relative;
+    left: -831px;
+    top: 545px
+}
+.al{
+    position: relative;
+    left: -831px;
+    top: 545px
+}
+.ap{
+    position: relative;
+    left: 1151px;
+    top: 447px
+}
+.foz{
+    position: relative;
+    left: 933px;
+    top: 340px
+}
+.vif{
+    position: relative;
+    left: 1055px;
+    top: 447px
+}
+.tinz{
+    position: relative;
+    left: 893px;
+    top: 340px
+}
+
+
+
